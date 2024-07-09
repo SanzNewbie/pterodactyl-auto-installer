@@ -66,7 +66,7 @@ check_token() {
   echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
   read -r USER_TOKEN
 
-  if [ "$USER_TOKEN" = "foxstore" ]; then
+  if [ "$USER_TOKEN" = "NovaBot" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
     echo -e "${GREEN}AKSES GAGAL${NC}"
