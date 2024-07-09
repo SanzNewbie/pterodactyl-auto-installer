@@ -20,7 +20,7 @@ display_welcome() {
   echo -e "script ini di buat untuk mempermudah penginstalasian thema pterodactyle,"
   echo -e "dilarang keras untuk memperjual belikan."
   echo -e ""
-  echo -e "𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 :"
+  echo -e "𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 "
   echo -e "0853-7227-7748"
   echo -e "𝗬𝗢𝗨𝗧𝗨𝗕𝗘 :"
   echo -e "@foxstore_id"
